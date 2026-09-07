@@ -1,0 +1,4 @@
+nome,especie,idade,peso,dono
+Rex,Cachorro,5,12.5,Carlos
+Mel,Cachorro,2,8.3,Ana
+Thor,Cachorro,7,15.8,Marcos
